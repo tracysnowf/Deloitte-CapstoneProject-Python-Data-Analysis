@@ -1,4 +1,4 @@
-,is_hispanic,derived_race,is_male,action_taken,preapproval_requested,loan_type,loan_purpose,loan_amount,loan_to_value_ratio,interest_only_payment,balloon_payment,income,debt_to_income_ratio,applicant_age,log_loan_to_value_ratio,mid_debt_to_income_ratio,debt
+,is_not_hispanic,derived_race,is_male,action_taken,preapproval_requested,loan_type,loan_purpose,loan_amount,loan_to_value_ratio,interest_only_payment,balloon_payment,income,debt_to_income_ratio,applicant_age,log_loan_to_value_ratio,mid_debt_to_income_ratio,debt
 0,Not Hispanic or Latino,Black or African American,Female,1,No Preapproval Requested,Converntional,Refinancing,105000.0,75.0,2,2,91.0,36%-<50%,35-44,6.22881869049588,0.38,34.58
 1,Not Hispanic or Latino,Black or African American,Female,0,No Preapproval Requested,Converntional,Refinancing,275000.0,52.38,2,2,142.0,36%-<50%,>74,5.710944154575872,0.38,53.96
 2,Hispanic or Latino,White,Male,0,No Preapproval Requested,Converntional,Home Purchase,235000.0,80.0,2,2,60.0,36%-<50%,35-44,6.321928094887363,0.38,22.8
